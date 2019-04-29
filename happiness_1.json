@@ -1,0 +1,465 @@
+{"country":"Afghanistan","rank":"141","score":"3.79399991035461","year":"2017","gdp_per_cap":"0.401477217674255","fertility":"0.581543326377869","life_expect":"0.180746778845787","region":"Southern Asia"}
+{"country":"Afghanistan","rank":"154","score":"3.36","year":"2016","gdp_per_cap":"0.38227","fertility":"0.11037","life_expect":"0.17344","region":"Southern Asia"}
+{"country":"Afghanistan","rank":"153","score":"3.575","year":"2015","gdp_per_cap":"0.31982","fertility":"0.30285","life_expect":"0.30335","region":"Southern Asia"}
+{"country":"Albania","rank":"109","score":"4.64400005340576","year":"2017","gdp_per_cap":"0.996192753314972","fertility":"0.803685247898102","life_expect":"0.731159746646881","region":"Central and Eastern Europe"}
+{"country":"Albania","rank":"109","score":"4.655","year":"2016","gdp_per_cap":"0.9553","fertility":"0.50163","life_expect":"0.73007","region":"Central and Eastern Europe"}
+{"country":"Albania","rank":"95","score":"4.959","year":"2015","gdp_per_cap":"0.87867","fertility":"0.80434","life_expect":"0.81325","region":"Central and Eastern Europe"}
+{"country":"Algeria","rank":"53","score":"5.87200021743774","year":"2017","gdp_per_cap":"1.09186446666718","fertility":"1.1462174654007","life_expect":"0.617584645748138","region":"Middle East and Northern Africa"}
+{"country":"Algeria","rank":"38","score":"6.355","year":"2016","gdp_per_cap":"1.05266","fertility":"0.83309","life_expect":"0.61804","region":"Middle East and Northern Africa"}
+{"country":"Algeria","rank":"68","score":"5.605","year":"2015","gdp_per_cap":"0.93929","fertility":"1.07772","life_expect":"0.61766","region":"Middle East and Northern Africa"}
+{"country":"Angola","rank":"140","score":"3.79500007629395","year":"2017","gdp_per_cap":"0.858428180217743","fertility":"1.10441195964813","life_expect":"0.0498686656355858","region":"Sub-Saharan Africa"}
+{"country":"Angola","rank":"141","score":"3.866","year":"2016","gdp_per_cap":"0.84731","fertility":"0.66366","life_expect":"0.04991","region":"Sub-Saharan Africa"}
+{"country":"Angola","rank":"137","score":"4.033","year":"2015","gdp_per_cap":"0.75778","fertility":"0.8604","life_expect":"0.16683","region":"Sub-Saharan Africa"}
+{"country":"Argentina","rank":"24","score":"6.59899997711182","year":"2017","gdp_per_cap":"1.18529546260834","fertility":"1.44045114517212","life_expect":"0.695137083530426","region":"Latin America and Caribbean"}
+{"country":"Argentina","rank":"26","score":"6.65","year":"2016","gdp_per_cap":"1.15137","fertility":"1.06612","life_expect":"0.69711","region":"Latin America and Caribbean"}
+{"country":"Argentina","rank":"30","score":"6.574","year":"2015","gdp_per_cap":"1.05351","fertility":"1.24823","life_expect":"0.78723","region":"Latin America and Caribbean"}
+{"country":"Armenia","rank":"121","score":"4.37599992752075","year":"2017","gdp_per_cap":"0.900596737861633","fertility":"1.00748372077942","life_expect":"0.637524425983429","region":"Central and Eastern Europe"}
+{"country":"Armenia","rank":"121","score":"4.36","year":"2016","gdp_per_cap":"0.86086","fertility":"0.62477","life_expect":"0.64083","region":"Central and Eastern Europe"}
+{"country":"Armenia","rank":"127","score":"4.35","year":"2015","gdp_per_cap":"0.76821","fertility":"0.77711","life_expect":"0.7299","region":"Central and Eastern Europe"}
+{"country":"Australia","rank":"10","score":"7.28399991989136","year":"2017","gdp_per_cap":"1.484414935112","fertility":"1.51004195213318","life_expect":"0.84388679265976","region":"Australia and New Zealand"}
+{"country":"Australia","rank":"9","score":"7.313","year":"2016","gdp_per_cap":"1.44443","fertility":"1.10476","life_expect":"0.8512","region":"Australia and New Zealand"}
+{"country":"Australia","rank":"10","score":"7.284","year":"2015","gdp_per_cap":"1.33358","fertility":"1.30923","life_expect":"0.93156","region":"Australia and New Zealand"}
+{"country":"Austria","rank":"13","score":"7.00600004196167","year":"2017","gdp_per_cap":"1.48709726333618","fertility":"1.4599449634552","life_expect":"0.815328419208527","region":"Western Europe"}
+{"country":"Austria","rank":"12","score":"7.119","year":"2016","gdp_per_cap":"1.45038","fertility":"1.08383","life_expect":"0.80565","region":"Western Europe"}
+{"country":"Austria","rank":"13","score":"7.2","year":"2015","gdp_per_cap":"1.33723","fertility":"1.29704","life_expect":"0.89042","region":"Western Europe"}
+{"country":"Azerbaijan","rank":"85","score":"5.23400020599365","year":"2017","gdp_per_cap":"1.15360176563263","fertility":"1.15240025520325","life_expect":"0.540775775909424","region":"Central and Eastern Europe"}
+{"country":"Azerbaijan","rank":"81","score":"5.291","year":"2016","gdp_per_cap":"1.12373","fertility":"0.76042","life_expect":"0.54504","region":"Central and Eastern Europe"}
+{"country":"Azerbaijan","rank":"80","score":"5.212","year":"2015","gdp_per_cap":"1.02389","fertility":"0.93793","life_expect":"0.64045","region":"Central and Eastern Europe"}
+{"country":"Bahrain","rank":"41","score":"6.08699989318848","year":"2017","gdp_per_cap":"1.48841226100922","fertility":"1.32311046123505","life_expect":"0.653133034706116","region":"Middle East and Northern Africa"}
+{"country":"Bahrain","rank":"42","score":"6.218","year":"2016","gdp_per_cap":"1.44024","fertility":"0.94397","life_expect":"0.65696","region":"Middle East and Northern Africa"}
+{"country":"Bahrain","rank":"49","score":"5.96","year":"2015","gdp_per_cap":"1.32376","fertility":"1.21624","life_expect":"0.74716","region":"Middle East and Northern Africa"}
+{"country":"Bangladesh","rank":"110","score":"4.60799980163574","year":"2017","gdp_per_cap":"0.586682975292206","fertility":"0.735131740570068","life_expect":"0.533241033554077","region":"Southern Asia"}
+{"country":"Bangladesh","rank":"110","score":"4.643","year":"2016","gdp_per_cap":"0.54177","fertility":"0.24749","life_expect":"0.52989","region":"Southern Asia"}
+{"country":"Bangladesh","rank":"109","score":"4.694","year":"2015","gdp_per_cap":"0.39753","fertility":"0.43106","life_expect":"0.60164","region":"Southern Asia"}
+{"country":"Belarus","rank":"67","score":"5.56899976730347","year":"2017","gdp_per_cap":"1.15655755996704","fertility":"1.44494521617889","life_expect":"0.637714266777039","region":"Central and Eastern Europe"}
+{"country":"Belarus","rank":"61","score":"5.802","year":"2016","gdp_per_cap":"1.13062","fertility":"1.04993","life_expect":"0.63104","region":"Central and Eastern Europe"}
+{"country":"Belarus","rank":"59","score":"5.813","year":"2015","gdp_per_cap":"1.03192","fertility":"1.23289","life_expect":"0.73608","region":"Central and Eastern Europe"}
+{"country":"Belgium","rank":"17","score":"6.89099979400635","year":"2017","gdp_per_cap":"1.46378076076508","fertility":"1.46231269836426","life_expect":"0.818091869354248","region":"Western Europe"}
+{"country":"Belgium","rank":"18","score":"6.929","year":"2016","gdp_per_cap":"1.42539","fertility":"1.05249","life_expect":"0.81959","region":"Western Europe"}
+{"country":"Belgium","rank":"19","score":"6.937","year":"2015","gdp_per_cap":"1.30782","fertility":"1.28566","life_expect":"0.89667","region":"Western Europe"}
+{"country":"Belize","rank":"50","score":"5.95599985122681","year":"2017","gdp_per_cap":"0.907975316047668","fertility":"1.08141779899597","life_expect":"0.450191766023636","region":"Latin America and Caribbean"}
+{"country":"Belize","rank":"52","score":"5.956","year":"2016","gdp_per_cap":"0.87616","fertility":"0.68655","life_expect":"0.45569","region":"Latin America and Caribbean"}
+{"country":"Benin","rank":"143","score":"3.65700006484985","year":"2017","gdp_per_cap":"0.431085407733917","fertility":"0.435299843549728","life_expect":"0.209930211305618","region":"Sub-Saharan Africa"}
+{"country":"Benin","rank":"153","score":"3.484","year":"2016","gdp_per_cap":"0.39499","fertility":"0.10419","life_expect":"0.21028","region":"Sub-Saharan Africa"}
+{"country":"Benin","rank":"155","score":"3.34","year":"2015","gdp_per_cap":"0.28665","fertility":"0.35386","life_expect":"0.3191","region":"Sub-Saharan Africa"}
+{"country":"Bhutan","rank":"79","score":"5.253","year":"2015","gdp_per_cap":"0.77042","fertility":"1.10395","life_expect":"0.57407","region":"Southern Asia"}
+{"country":"Bhutan","rank":"97","score":"5.01100015640259","year":"2017","gdp_per_cap":"0.885416388511658","fertility":"1.34012651443481","life_expect":"0.495879292488098","region":"Southern Asia"}
+{"country":"Bhutan","rank":"84","score":"5.196","year":"2016","gdp_per_cap":"0.8527","fertility":"0.90836","life_expect":"0.49759","region":"Southern Asia"}
+{"country":"Bolivia","rank":"51","score":"5.89","year":"2015","gdp_per_cap":"0.68133","fertility":"0.97841","life_expect":"0.5392","region":"Latin America and Caribbean"}
+{"country":"Bolivia","rank":"58","score":"5.82299995422363","year":"2017","gdp_per_cap":"0.833756566047668","fertility":"1.22761905193329","life_expect":"0.473630249500275","region":"Latin America and Caribbean"}
+{"country":"Bolivia","rank":"59","score":"5.822","year":"2016","gdp_per_cap":"0.79422","fertility":"0.83779","life_expect":"0.4697","region":"Latin America and Caribbean"}
+{"country":"Bosnia and Herzegovina","rank":"96","score":"4.949","year":"2015","gdp_per_cap":"0.83223","fertility":"0.91916","life_expect":"0.79081","region":"Central and Eastern Europe"}
+{"country":"Bosnia and Herzegovina","rank":"90","score":"5.18200016021729","year":"2017","gdp_per_cap":"0.982409417629242","fertility":"1.0693359375","life_expect":"0.705186307430267","region":"Central and Eastern Europe"}
+{"country":"Bosnia and Herzegovina","rank":"87","score":"5.163","year":"2016","gdp_per_cap":"0.93383","fertility":"0.64367","life_expect":"0.70766","region":"Central and Eastern Europe"}
+{"country":"Botswana","rank":"142","score":"3.76600003242493","year":"2017","gdp_per_cap":"1.12209415435791","fertility":"1.22155499458313","life_expect":"0.341755509376526","region":"Sub-Saharan Africa"}
+{"country":"Botswana","rank":"137","score":"3.974","year":"2016","gdp_per_cap":"1.09426","fertility":"0.89186","life_expect":"0.34752","region":"Sub-Saharan Africa"}
+{"country":"Botswana","rank":"128","score":"4.332","year":"2015","gdp_per_cap":"0.99355","fertility":"1.10464","life_expect":"0.04776","region":"Sub-Saharan Africa"}
+{"country":"Brazil","rank":"16","score":"6.983","year":"2015","gdp_per_cap":"0.98124","fertility":"1.23287","life_expect":"0.69702","region":"Latin America and Caribbean"}
+{"country":"Brazil","rank":"22","score":"6.63500022888184","year":"2017","gdp_per_cap":"1.10735321044922","fertility":"1.43130600452423","life_expect":"0.616552352905273","region":"Latin America and Caribbean"}
+{"country":"Brazil","rank":"17","score":"6.952","year":"2016","gdp_per_cap":"1.08754","fertility":"1.03938","life_expect":"0.61415","region":"Latin America and Caribbean"}
+{"country":"Bulgaria","rank":"105","score":"4.71400022506714","year":"2017","gdp_per_cap":"1.1614590883255","fertility":"1.43437945842743","life_expect":"0.708217680454254","region":"Central and Eastern Europe"}
+{"country":"Bulgaria","rank":"129","score":"4.217","year":"2016","gdp_per_cap":"1.11306","fertility":"0.92542","life_expect":"0.67806","region":"Central and Eastern Europe"}
+{"country":"Bulgaria","rank":"134","score":"4.218","year":"2015","gdp_per_cap":"1.01216","fertility":"1.10614","life_expect":"0.76649","region":"Central and Eastern Europe"}
+{"country":"Burkina Faso","rank":"134","score":"4.03200006484985","year":"2017","gdp_per_cap":"0.3502277135849","fertility":"1.04328000545502","life_expect":"0.215844258666039","region":"Sub-Saharan Africa"}
+{"country":"Burkina Faso","rank":"145","score":"3.739","year":"2016","gdp_per_cap":"0.31995","fertility":"0.63054","life_expect":"0.21297","region":"Sub-Saharan Africa"}
+{"country":"Burkina Faso","rank":"152","score":"3.587","year":"2015","gdp_per_cap":"0.25812","fertility":"0.85188","life_expect":"0.27125","region":"Sub-Saharan Africa"}
+{"country":"Burundi","rank":"154","score":"2.90499997138977","year":"2017","gdp_per_cap":"0.091622568666935","fertility":"0.629793584346771","life_expect":"0.151610791683197","region":"Sub-Saharan Africa"}
+{"country":"Burundi","rank":"157","score":"2.905","year":"2016","gdp_per_cap":"0.06831","fertility":"0.23442","life_expect":"0.15747","region":"Sub-Saharan Africa"}
+{"country":"Burundi","rank":"157","score":"2.905","year":"2015","gdp_per_cap":"0.0153","fertility":"0.41587","life_expect":"0.22396","region":"Sub-Saharan Africa"}
+{"country":"Cambodia","rank":"129","score":"4.16800022125244","year":"2017","gdp_per_cap":"0.601765096187592","fertility":"1.00623834133148","life_expect":"0.429783403873444","region":"Southeastern Asia"}
+{"country":"Cambodia","rank":"140","score":"3.907","year":"2016","gdp_per_cap":"0.55604","fertility":"0.5375","life_expect":"0.42494","region":"Southeastern Asia"}
+{"country":"Cambodia","rank":"145","score":"3.819","year":"2015","gdp_per_cap":"0.46038","fertility":"0.62736","life_expect":"0.61114","region":"Southeastern Asia"}
+{"country":"Cameroon","rank":"133","score":"4.252","year":"2015","gdp_per_cap":"0.4225","fertility":"0.88767","life_expect":"0.23402","region":"Sub-Saharan Africa"}
+{"country":"Cameroon","rank":"107","score":"4.69500017166138","year":"2017","gdp_per_cap":"0.564305365085602","fertility":"0.946018218994141","life_expect":"0.132892116904259","region":"Sub-Saharan Africa"}
+{"country":"Cameroon","rank":"114","score":"4.513","year":"2016","gdp_per_cap":"0.52497","fertility":"0.62542","life_expect":"0.12698","region":"Sub-Saharan Africa"}
+{"country":"Canada","rank":"5","score":"7.427","year":"2015","gdp_per_cap":"1.32629","fertility":"1.32261","life_expect":"0.90563","region":"North America"}
+{"country":"Canada","rank":"7","score":"7.31599998474121","year":"2017","gdp_per_cap":"1.47920441627502","fertility":"1.48134899139404","life_expect":"0.83455765247345","region":"North America"}
+{"country":"Canada","rank":"6","score":"7.404","year":"2016","gdp_per_cap":"1.44015","fertility":"1.0961","life_expect":"0.8276","region":"North America"}
+{"country":"Central African Republic","rank":"148","score":"3.678","year":"2015","gdp_per_cap":"0.0785","fertility":"0","life_expect":"0.06699","region":"Sub-Saharan Africa"}
+{"country":"Chad","rank":"137","score":"3.93600010871887","year":"2017","gdp_per_cap":"0.438012987375259","fertility":"0.953855872154236","life_expect":"0.0411347150802612","region":"Sub-Saharan Africa"}
+{"country":"Chad","rank":"144","score":"3.763","year":"2016","gdp_per_cap":"0.42214","fertility":"0.63178","life_expect":"0.03824","region":"Sub-Saharan Africa"}
+{"country":"Chad","rank":"149","score":"3.667","year":"2015","gdp_per_cap":"0.34193","fertility":"0.76062","life_expect":"0.1501","region":"Sub-Saharan Africa"}
+{"country":"Chile","rank":"20","score":"6.65199995040894","year":"2017","gdp_per_cap":"1.25278460979462","fertility":"1.28402495384216","life_expect":"0.819479703903198","region":"Latin America and Caribbean"}
+{"country":"Chile","rank":"24","score":"6.705","year":"2016","gdp_per_cap":"1.2167","fertility":"0.90587","life_expect":"0.81883","region":"Latin America and Caribbean"}
+{"country":"Chile","rank":"27","score":"6.67","year":"2015","gdp_per_cap":"1.10715","fertility":"1.12447","life_expect":"0.85857","region":"Latin America and Caribbean"}
+{"country":"China","rank":"84","score":"5.14","year":"2015","gdp_per_cap":"0.89012","fertility":"0.94675","life_expect":"0.81658","region":"Eastern Asia"}
+{"country":"China","rank":"79","score":"5.27299976348877","year":"2017","gdp_per_cap":"1.08116579055786","fertility":"1.16083741188049","life_expect":"0.741415500640869","region":"Eastern Asia"}
+{"country":"China","rank":"83","score":"5.245","year":"2016","gdp_per_cap":"1.0278","fertility":"0.79381","life_expect":"0.73561","region":"Eastern Asia"}
+{"country":"Colombia","rank":"36","score":"6.35699987411499","year":"2017","gdp_per_cap":"1.07062232494354","fertility":"1.4021829366684","life_expect":"0.595027923583984","region":"Latin America and Caribbean"}
+{"country":"Colombia","rank":"31","score":"6.481","year":"2016","gdp_per_cap":"1.03032","fertility":"1.02169","life_expect":"0.59659","region":"Latin America and Caribbean"}
+{"country":"Colombia","rank":"33","score":"6.477","year":"2015","gdp_per_cap":"0.91861","fertility":"1.24018","life_expect":"0.69077","region":"Latin America and Caribbean"}
+{"country":"Comoros","rank":"138","score":"3.956","year":"2016","gdp_per_cap":"0.27509","fertility":"0.60323","life_expect":"0.29981","region":"Sub-Saharan Africa"}
+{"country":"Comoros","rank":"140","score":"3.956","year":"2015","gdp_per_cap":"0.23906","fertility":"0.79273","life_expect":"0.36315","region":"Sub-Saharan Africa"}
+{"country":"Congo (Brazzaville)","rank":"139","score":"3.989","year":"2015","gdp_per_cap":"0.67866","fertility":"0.6629","life_expect":"0.31051","region":"Sub-Saharan Africa"}
+{"country":"Congo (Brazzaville)","rank":"124","score":"4.29099988937378","year":"2017","gdp_per_cap":"0.808964252471924","fertility":"0.832044363021851","life_expect":"0.28995743393898","region":"Sub-Saharan Africa"}
+{"country":"Congo (Brazzaville)","rank":"127","score":"4.236","year":"2016","gdp_per_cap":"0.77109","fertility":"0.47799","life_expect":"0.28212","region":"Sub-Saharan Africa"}
+{"country":"Congo (Kinshasa)","rank":"120","score":"4.517","year":"2015","gdp_per_cap":"0","fertility":"1.0012","life_expect":"0.09806","region":"Sub-Saharan Africa"}
+{"country":"Congo (Kinshasa)","rank":"126","score":"4.28000020980835","year":"2017","gdp_per_cap":"0.0921023488044739","fertility":"1.22902345657349","life_expect":"0.191407024860382","region":"Sub-Saharan Africa"}
+{"country":"Congo (Kinshasa)","rank":"125","score":"4.272","year":"2016","gdp_per_cap":"0.05661","fertility":"0.80676","life_expect":"0.188","region":"Sub-Saharan Africa"}
+{"country":"Costa Rica","rank":"12","score":"7.0789999961853","year":"2017","gdp_per_cap":"1.10970628261566","fertility":"1.41640365123749","life_expect":"0.759509265422821","region":"Latin America and Caribbean"}
+{"country":"Costa Rica","rank":"14","score":"7.087","year":"2016","gdp_per_cap":"1.06879","fertility":"1.02152","life_expect":"0.76146","region":"Latin America and Caribbean"}
+{"country":"Costa Rica","rank":"12","score":"7.226","year":"2015","gdp_per_cap":"0.95578","fertility":"1.23788","life_expect":"0.86027","region":"Latin America and Caribbean"}
+{"country":"Croatia","rank":"62","score":"5.759","year":"2015","gdp_per_cap":"1.08254","fertility":"0.79624","life_expect":"0.78805","region":"Central and Eastern Europe"}
+{"country":"Croatia","rank":"77","score":"5.29300022125244","year":"2017","gdp_per_cap":"1.22255623340607","fertility":"0.96798300743103","life_expect":"0.701288521289825","region":"Central and Eastern Europe"}
+{"country":"Croatia","rank":"74","score":"5.488","year":"2016","gdp_per_cap":"1.18649","fertility":"0.60809","life_expect":"0.70524","region":"Central and Eastern Europe"}
+{"country":"Cyprus","rank":"65","score":"5.62099981307983","year":"2017","gdp_per_cap":"1.35593807697296","fertility":"1.13136327266693","life_expect":"0.84471470117569","region":"Western Europe"}
+{"country":"Cyprus","rank":"69","score":"5.546","year":"2016","gdp_per_cap":"1.31857","fertility":"0.70697","life_expect":"0.8488","region":"Western Europe"}
+{"country":"Cyprus","rank":"67","score":"5.689","year":"2015","gdp_per_cap":"1.20813","fertility":"0.89318","life_expect":"0.92356","region":"Western Europe"}
+{"country":"Czech Republic","rank":"23","score":"6.60900020599365","year":"2017","gdp_per_cap":"1.35268235206604","fertility":"1.43388521671295","life_expect":"0.754444003105164","region":"Central and Eastern Europe"}
+{"country":"Czech Republic","rank":"27","score":"6.596","year":"2016","gdp_per_cap":"1.30915","fertility":"1.00793","life_expect":"0.76376","region":"Central and Eastern Europe"}
+{"country":"Czech Republic","rank":"31","score":"6.505","year":"2015","gdp_per_cap":"1.17898","fertility":"1.20643","life_expect":"0.84483","region":"Central and Eastern Europe"}
+{"country":"Denmark","rank":"3","score":"7.527","year":"2015","gdp_per_cap":"1.32548","fertility":"1.36058","life_expect":"0.87464","region":"Western Europe"}
+{"country":"Denmark","rank":"2","score":"7.52199983596802","year":"2017","gdp_per_cap":"1.48238301277161","fertility":"1.55112159252167","life_expect":"0.792565524578094","region":"Western Europe"}
+{"country":"Denmark","rank":"1","score":"7.526","year":"2016","gdp_per_cap":"1.44178","fertility":"1.16374","life_expect":"0.79504","region":"Western Europe"}
+{"country":"Djibouti","rank":"126","score":"4.369","year":"2015","gdp_per_cap":"0.44025","fertility":"0.59207","life_expect":"0.36291","region":"Sub-Saharan Africa"}
+{"country":"Dominican Republic","rank":"98","score":"4.885","year":"2015","gdp_per_cap":"0.89537","fertility":"1.17202","life_expect":"0.66825","region":"Latin America and Caribbean"}
+{"country":"Dominican Republic","rank":"86","score":"5.23000001907349","year":"2017","gdp_per_cap":"1.07937383651733","fertility":"1.40241670608521","life_expect":"0.574873745441437","region":"Latin America and Caribbean"}
+{"country":"Dominican Republic","rank":"89","score":"5.155","year":"2016","gdp_per_cap":"1.02787","fertility":"0.99496","life_expect":"0.57669","region":"Latin America and Caribbean"}
+{"country":"Ecuador","rank":"48","score":"5.975","year":"2015","gdp_per_cap":"0.86402","fertility":"0.99903","life_expect":"0.79075","region":"Latin America and Caribbean"}
+{"country":"Ecuador","rank":"44","score":"6.00799989700317","year":"2017","gdp_per_cap":"1.00082039833069","fertility":"1.28616881370544","life_expect":"0.685636222362518","region":"Latin America and Caribbean"}
+{"country":"Ecuador","rank":"51","score":"5.976","year":"2016","gdp_per_cap":"0.97306","fertility":"0.85974","life_expect":"0.68613","region":"Latin America and Caribbean"}
+{"country":"Egypt","rank":"104","score":"4.7350001335144","year":"2017","gdp_per_cap":"0.989701807498932","fertility":"0.997471392154694","life_expect":"0.520187258720398","region":"Middle East and Northern Africa"}
+{"country":"Egypt","rank":"120","score":"4.362","year":"2016","gdp_per_cap":"0.95395","fertility":"0.49813","life_expect":"0.52116","region":"Middle East and Northern Africa"}
+{"country":"Egypt","rank":"135","score":"4.194","year":"2015","gdp_per_cap":"0.8818","fertility":"0.747","life_expect":"0.61712","region":"Middle East and Northern Africa"}
+{"country":"El Salvador","rank":"42","score":"6.13","year":"2015","gdp_per_cap":"0.76454","fertility":"1.02507","life_expect":"0.67737","region":"Latin America and Caribbean"}
+{"country":"El Salvador","rank":"45","score":"6.00299978256226","year":"2017","gdp_per_cap":"0.909784495830536","fertility":"1.18212509155273","life_expect":"0.596018552780151","region":"Latin America and Caribbean"}
+{"country":"El Salvador","rank":"46","score":"6.068","year":"2016","gdp_per_cap":"0.8737","fertility":"0.80975","life_expect":"0.596","region":"Latin America and Caribbean"}
+{"country":"Estonia","rank":"73","score":"5.429","year":"2015","gdp_per_cap":"1.15174","fertility":"1.22791","life_expect":"0.77361","region":"Central and Eastern Europe"}
+{"country":"Estonia","rank":"66","score":"5.61100006103516","year":"2017","gdp_per_cap":"1.32087934017181","fertility":"1.47667109966278","life_expect":"0.695168316364288","region":"Central and Eastern Europe"}
+{"country":"Estonia","rank":"72","score":"5.517","year":"2016","gdp_per_cap":"1.27964","fertility":"1.05163","life_expect":"0.68098","region":"Central and Eastern Europe"}
+{"country":"Ethiopia","rank":"122","score":"4.512","year":"2015","gdp_per_cap":"0.19073","fertility":"0.60406","life_expect":"0.44055","region":"Sub-Saharan Africa"}
+{"country":"Ethiopia","rank":"119","score":"4.46000003814697","year":"2017","gdp_per_cap":"0.339233845472336","fertility":"0.86466920375824","life_expect":"0.353409707546234","region":"Sub-Saharan Africa"}
+{"country":"Ethiopia","rank":"115","score":"4.508","year":"2016","gdp_per_cap":"0.29283","fertility":"0.37932","life_expect":"0.34578","region":"Sub-Saharan Africa"}
+{"country":"Finland","rank":"5","score":"7.4689998626709","year":"2017","gdp_per_cap":"1.44357192516327","fertility":"1.5402467250824","life_expect":"0.80915766954422","region":"Western Europe"}
+{"country":"Finland","rank":"5","score":"7.413","year":"2016","gdp_per_cap":"1.40598","fertility":"1.13464","life_expect":"0.81091","region":"Western Europe"}
+{"country":"Finland","rank":"6","score":"7.406","year":"2015","gdp_per_cap":"1.29025","fertility":"1.31826","life_expect":"0.88911","region":"Western Europe"}
+{"country":"France","rank":"31","score":"6.44199991226196","year":"2017","gdp_per_cap":"1.43092346191406","fertility":"1.38777685165405","life_expect":"0.844465851783752","region":"Western Europe"}
+{"country":"France","rank":"32","score":"6.478","year":"2016","gdp_per_cap":"1.39488","fertility":"1.00508","life_expect":"0.83795","region":"Western Europe"}
+{"country":"France","rank":"29","score":"6.575","year":"2015","gdp_per_cap":"1.27778","fertility":"1.26038","life_expect":"0.94579","region":"Western Europe"}
+{"country":"Gabon","rank":"143","score":"3.896","year":"2015","gdp_per_cap":"1.06024","fertility":"0.90528","life_expect":"0.43372","region":"Sub-Saharan Africa"}
+{"country":"Gabon","rank":"118","score":"4.46500015258789","year":"2017","gdp_per_cap":"1.1982102394104","fertility":"1.1556202173233","life_expect":"0.356578588485718","region":"Sub-Saharan Africa"}
+{"country":"Gabon","rank":"134","score":"4.121","year":"2016","gdp_per_cap":"1.15851","fertility":"0.72368","life_expect":"0.3494","region":"Sub-Saharan Africa"}
+{"country":"Georgia","rank":"130","score":"4.297","year":"2015","gdp_per_cap":"0.7419","fertility":"0.38562","life_expect":"0.72926","region":"Central and Eastern Europe"}
+{"country":"Georgia","rank":"125","score":"4.28599977493286","year":"2017","gdp_per_cap":"0.950612664222717","fertility":"0.57061493396759","life_expect":"0.649546980857849","region":"Central and Eastern Europe"}
+{"country":"Georgia","rank":"126","score":"4.252","year":"2016","gdp_per_cap":"0.83792","fertility":"0.19249","life_expect":"0.64035","region":"Central and Eastern Europe"}
+{"country":"Germany","rank":"16","score":"6.95100021362305","year":"2017","gdp_per_cap":"1.48792338371277","fertility":"1.47252035140991","life_expect":"0.798950731754303","region":"Western Europe"}
+{"country":"Germany","rank":"16","score":"6.994","year":"2016","gdp_per_cap":"1.44787","fertility":"1.09774","life_expect":"0.81487","region":"Western Europe"}
+{"country":"Germany","rank":"26","score":"6.75","year":"2015","gdp_per_cap":"1.32792","fertility":"1.29937","life_expect":"0.89186","region":"Western Europe"}
+{"country":"Ghana","rank":"114","score":"4.633","year":"2015","gdp_per_cap":"0.54558","fertility":"0.67954","life_expect":"0.40132","region":"Sub-Saharan Africa"}
+{"country":"Ghana","rank":"131","score":"4.11999988555908","year":"2017","gdp_per_cap":"0.667224824428558","fertility":"0.873664736747742","life_expect":"0.295637726783752","region":"Sub-Saharan Africa"}
+{"country":"Ghana","rank":"124","score":"4.276","year":"2016","gdp_per_cap":"0.63107","fertility":"0.49353","life_expect":"0.29681","region":"Sub-Saharan Africa"}
+{"country":"Greece","rank":"102","score":"4.857","year":"2015","gdp_per_cap":"1.15406","fertility":"0.92933","life_expect":"0.88213","region":"Western Europe"}
+{"country":"Greece","rank":"87","score":"5.22700023651123","year":"2017","gdp_per_cap":"1.28948748111725","fertility":"1.23941457271576","life_expect":"0.810198903083801","region":"Western Europe"}
+{"country":"Greece","rank":"99","score":"5.033","year":"2016","gdp_per_cap":"1.24886","fertility":"0.75473","life_expect":"0.80029","region":"Western Europe"}
+{"country":"Guatemala","rank":"29","score":"6.4539999961853","year":"2017","gdp_per_cap":"0.872001945972443","fertility":"1.25558519363403","life_expect":"0.540239989757538","region":"Latin America and Caribbean"}
+{"country":"Guatemala","rank":"39","score":"6.324","year":"2016","gdp_per_cap":"0.83454","fertility":"0.87119","life_expect":"0.54039","region":"Latin America and Caribbean"}
+{"country":"Guatemala","rank":"43","score":"6.123","year":"2015","gdp_per_cap":"0.74553","fertility":"1.04356","life_expect":"0.64425","region":"Latin America and Caribbean"}
+{"country":"Guinea","rank":"149","score":"3.50699996948242","year":"2017","gdp_per_cap":"0.244549930095673","fertility":"0.791244685649872","life_expect":"0.194129139184952","region":"Sub-Saharan Africa"}
+{"country":"Guinea","rank":"151","score":"3.607","year":"2016","gdp_per_cap":"0.22415","fertility":"0.3109","life_expect":"0.18829","region":"Sub-Saharan Africa"}
+{"country":"Guinea","rank":"150","score":"3.656","year":"2015","gdp_per_cap":"0.17417","fertility":"0.46475","life_expect":"0.24009","region":"Sub-Saharan Africa"}
+{"country":"Haiti","rank":"145","score":"3.6029999256134","year":"2017","gdp_per_cap":"0.368610262870789","fertility":"0.640449821949005","life_expect":"0.277321130037308","region":"Latin America and Caribbean"}
+{"country":"Haiti","rank":"136","score":"4.028","year":"2016","gdp_per_cap":"0.34097","fertility":"0.29561","life_expect":"0.27494","region":"Latin America and Caribbean"}
+{"country":"Haiti","rank":"119","score":"4.518","year":"2015","gdp_per_cap":"0.26673","fertility":"0.74302","life_expect":"0.38847","region":"Latin America and Caribbean"}
+{"country":"Honduras","rank":"105","score":"4.788","year":"2015","gdp_per_cap":"0.59532","fertility":"0.95348","life_expect":"0.6951","region":"Latin America and Caribbean"}
+{"country":"Honduras","rank":"91","score":"5.18100023269653","year":"2017","gdp_per_cap":"0.730573117733002","fertility":"1.14394497871399","life_expect":"0.582569479942322","region":"Latin America and Caribbean"}
+{"country":"Honduras","rank":"104","score":"4.871","year":"2016","gdp_per_cap":"0.69429","fertility":"0.75596","life_expect":"0.58383","region":"Latin America and Caribbean"}
+{"country":"Hong Kong","rank":"75","score":"5.458","year":"2016","gdp_per_cap":"1.5107","fertility":"0.87021","life_expect":"0.95277","region":"Eastern Asia"}
+{"country":"Hong Kong","rank":"72","score":"5.474","year":"2015","gdp_per_cap":"1.38604","fertility":"1.05818","life_expect":"1.01328","region":"Eastern Asia"}
+{"country":"Hungary","rank":"75","score":"5.32399988174438","year":"2017","gdp_per_cap":"1.2860119342804","fertility":"1.34313309192657","life_expect":"0.687763452529907","region":"Central and Eastern Europe"}
+{"country":"Hungary","rank":"91","score":"5.145","year":"2016","gdp_per_cap":"1.24142","fertility":"0.93164","life_expect":"0.67608","region":"Central and Eastern Europe"}
+{"country":"Hungary","rank":"104","score":"4.8","year":"2015","gdp_per_cap":"1.12094","fertility":"1.20215","life_expect":"0.75905","region":"Central and Eastern Europe"}
+{"country":"Iceland","rank":"3","score":"7.50400018692017","year":"2017","gdp_per_cap":"1.480633020401","fertility":"1.6105740070343","life_expect":"0.833552122116089","region":"Western Europe"}
+{"country":"Iceland","rank":"3","score":"7.501","year":"2016","gdp_per_cap":"1.42666","fertility":"1.18326","life_expect":"0.86733","region":"Western Europe"}
+{"country":"Iceland","rank":"2","score":"7.561","year":"2015","gdp_per_cap":"1.30232","fertility":"1.40223","life_expect":"0.94784","region":"Western Europe"}
+{"country":"India","rank":"117","score":"4.565","year":"2015","gdp_per_cap":"0.64499","fertility":"0.38174","life_expect":"0.51529","region":"Southern Asia"}
+{"country":"India","rank":"122","score":"4.31500005722046","year":"2017","gdp_per_cap":"0.792221248149872","fertility":"0.754372596740723","life_expect":"0.455427616834641","region":"Southern Asia"}
+{"country":"India","rank":"118","score":"4.404","year":"2016","gdp_per_cap":"0.74036","fertility":"0.29247","life_expect":"0.45091","region":"Southern Asia"}
+{"country":"Indonesia","rank":"74","score":"5.399","year":"2015","gdp_per_cap":"0.82827","fertility":"1.08708","life_expect":"0.63793","region":"Southeastern Asia"}
+{"country":"Indonesia","rank":"81","score":"5.26200008392334","year":"2017","gdp_per_cap":"0.995538592338562","fertility":"1.27444469928741","life_expect":"0.492345720529556","region":"Southeastern Asia"}
+{"country":"Indonesia","rank":"79","score":"5.314","year":"2016","gdp_per_cap":"0.95104","fertility":"0.87625","life_expect":"0.49374","region":"Southeastern Asia"}
+{"country":"Iran","rank":"108","score":"4.69199991226196","year":"2017","gdp_per_cap":"1.15687310695648","fertility":"0.711551249027252","life_expect":"0.639333188533783","region":"Middle East and Northern Africa"}
+{"country":"Iran","rank":"105","score":"4.813","year":"2016","gdp_per_cap":"1.11758","fertility":"0.38857","life_expect":"0.64232","region":"Middle East and Northern Africa"}
+{"country":"Iran","rank":"110","score":"4.686","year":"2015","gdp_per_cap":"1.0088","fertility":"0.54447","life_expect":"0.69805","region":"Middle East and Northern Africa"}
+{"country":"Iraq","rank":"117","score":"4.49700021743774","year":"2017","gdp_per_cap":"1.10271048545837","fertility":"0.978613197803497","life_expect":"0.501180469989777","region":"Middle East and Northern Africa"}
+{"country":"Iraq","rank":"112","score":"4.575","year":"2016","gdp_per_cap":"1.07474","fertility":"0.59205","life_expect":"0.51076","region":"Middle East and Northern Africa"}
+{"country":"Iraq","rank":"112","score":"4.677","year":"2015","gdp_per_cap":"0.98549","fertility":"0.81889","life_expect":"0.60237","region":"Middle East and Northern Africa"}
+{"country":"Ireland","rank":"18","score":"6.94","year":"2015","gdp_per_cap":"1.33596","fertility":"1.36948","life_expect":"0.89533","region":"Western Europe"}
+{"country":"Ireland","rank":"15","score":"6.97700023651123","year":"2017","gdp_per_cap":"1.53570663928986","fertility":"1.55823111534119","life_expect":"0.80978262424469","region":"Western Europe"}
+{"country":"Ireland","rank":"19","score":"6.907","year":"2016","gdp_per_cap":"1.48341","fertility":"1.16157","life_expect":"0.81455","region":"Western Europe"}
+{"country":"Israel","rank":"11","score":"7.21299982070923","year":"2017","gdp_per_cap":"1.37538242340088","fertility":"1.37628996372223","life_expect":"0.83840399980545","region":"Middle East and Northern Africa"}
+{"country":"Israel","rank":"11","score":"7.267","year":"2016","gdp_per_cap":"1.33766","fertility":"0.99537","life_expect":"0.84917","region":"Middle East and Northern Africa"}
+{"country":"Israel","rank":"11","score":"7.278","year":"2015","gdp_per_cap":"1.22857","fertility":"1.22393","life_expect":"0.91387","region":"Middle East and Northern Africa"}
+{"country":"Italy","rank":"48","score":"5.96400022506714","year":"2017","gdp_per_cap":"1.39506661891937","fertility":"1.44492328166962","life_expect":"0.853144347667694","region":"Western Europe"}
+{"country":"Italy","rank":"50","score":"5.977","year":"2016","gdp_per_cap":"1.35495","fertility":"1.04167","life_expect":"0.85102","region":"Western Europe"}
+{"country":"Italy","rank":"50","score":"5.948","year":"2015","gdp_per_cap":"1.25114","fertility":"1.19777","life_expect":"0.95446","region":"Western Europe"}
+{"country":"Ivory Coast","rank":"128","score":"4.17999982833862","year":"2017","gdp_per_cap":"0.603048920631409","fertility":"0.904780030250549","life_expect":"0.0486421696841717","region":"Sub-Saharan Africa"}
+{"country":"Ivory Coast","rank":"139","score":"3.916","year":"2016","gdp_per_cap":"0.55507","fertility":"0.57576","life_expect":"0.04476","region":"Sub-Saharan Africa"}
+{"country":"Ivory Coast","rank":"151","score":"3.655","year":"2015","gdp_per_cap":"0.46534","fertility":"0.77115","life_expect":"0.15185","region":"Sub-Saharan Africa"}
+{"country":"Jamaica","rank":"65","score":"5.709","year":"2015","gdp_per_cap":"0.81038","fertility":"1.15102","life_expect":"0.68741","region":"Latin America and Caribbean"}
+{"country":"Jamaica","rank":"76","score":"5.31099987030029","year":"2017","gdp_per_cap":"0.925579309463501","fertility":"1.36821806430817","life_expect":"0.641022384166718","region":"Latin America and Caribbean"}
+{"country":"Jamaica","rank":"73","score":"5.51","year":"2016","gdp_per_cap":"0.89333","fertility":"0.96372","life_expect":"0.59469","region":"Latin America and Caribbean"}
+{"country":"Japan","rank":"46","score":"5.987","year":"2015","gdp_per_cap":"1.27074","fertility":"1.25712","life_expect":"0.99111","region":"Eastern Asia"}
+{"country":"Japan","rank":"51","score":"5.92000007629395","year":"2017","gdp_per_cap":"1.41691517829895","fertility":"1.43633782863617","life_expect":"0.913475871086121","region":"Eastern Asia"}
+{"country":"Japan","rank":"53","score":"5.921","year":"2016","gdp_per_cap":"1.38007","fertility":"1.06054","life_expect":"0.91491","region":"Eastern Asia"}
+{"country":"Jordan","rank":"82","score":"5.192","year":"2015","gdp_per_cap":"0.90198","fertility":"1.05392","life_expect":"0.69639","region":"Middle East and Northern Africa"}
+{"country":"Jordan","rank":"74","score":"5.33599996566772","year":"2017","gdp_per_cap":"0.991012394428253","fertility":"1.23908889293671","life_expect":"0.604590058326721","region":"Middle East and Northern Africa"}
+{"country":"Jordan","rank":"80","score":"5.303","year":"2016","gdp_per_cap":"0.99673","fertility":"0.86216","life_expect":"0.60712","region":"Middle East and Northern Africa"}
+{"country":"Kazakhstan","rank":"60","score":"5.81899976730347","year":"2017","gdp_per_cap":"1.28455626964569","fertility":"1.38436901569366","life_expect":"0.606041550636292","region":"Central and Eastern Europe"}
+{"country":"Kazakhstan","rank":"54","score":"5.919","year":"2016","gdp_per_cap":"1.22943","fertility":"0.95544","life_expect":"0.57386","region":"Central and Eastern Europe"}
+{"country":"Kazakhstan","rank":"54","score":"5.855","year":"2015","gdp_per_cap":"1.12254","fertility":"1.12241","life_expect":"0.64368","region":"Central and Eastern Europe"}
+{"country":"Kenya","rank":"125","score":"4.419","year":"2015","gdp_per_cap":"0.36471","fertility":"0.99876","life_expect":"0.41435","region":"Sub-Saharan Africa"}
+{"country":"Kenya","rank":"112","score":"4.55299997329712","year":"2017","gdp_per_cap":"0.560479462146759","fertility":"1.06795072555542","life_expect":"0.309988349676132","region":"Sub-Saharan Africa"}
+{"country":"Kenya","rank":"122","score":"4.356","year":"2016","gdp_per_cap":"0.52267","fertility":"0.7624","life_expect":"0.30147","region":"Sub-Saharan Africa"}
+{"country":"Kosovo","rank":"69","score":"5.589","year":"2015","gdp_per_cap":"0.80148","fertility":"0.81198","life_expect":"0.63132","region":"Central and Eastern Europe"}
+{"country":"Kosovo","rank":"78","score":"5.27899980545044","year":"2017","gdp_per_cap":"0.951484382152557","fertility":"1.13785350322723","life_expect":"0.541452050209045","region":"Central and Eastern Europe"}
+{"country":"Kosovo","rank":"77","score":"5.401","year":"2016","gdp_per_cap":"0.90145","fertility":"0.66062","life_expect":"0.54","region":"Central and Eastern Europe"}
+{"country":"Kuwait","rank":"39","score":"6.10500001907349","year":"2017","gdp_per_cap":"1.63295245170593","fertility":"1.25969874858856","life_expect":"0.632105708122253","region":"Middle East and Northern Africa"}
+{"country":"Kuwait","rank":"41","score":"6.239","year":"2016","gdp_per_cap":"1.61714","fertility":"0.87758","life_expect":"0.63569","region":"Middle East and Northern Africa"}
+{"country":"Kuwait","rank":"39","score":"6.295","year":"2015","gdp_per_cap":"1.55422","fertility":"1.16594","life_expect":"0.72492","region":"Middle East and Northern Africa"}
+{"country":"Kyrgyzstan","rank":"98","score":"5.00400018692017","year":"2017","gdp_per_cap":"0.596220076084137","fertility":"1.39423859119415","life_expect":"0.553457796573639","region":"Central and Eastern Europe"}
+{"country":"Kyrgyzstan","rank":"85","score":"5.185","year":"2016","gdp_per_cap":"0.56044","fertility":"0.95434","life_expect":"0.55449","region":"Central and Eastern Europe"}
+{"country":"Kyrgyzstan","rank":"77","score":"5.286","year":"2015","gdp_per_cap":"0.47428","fertility":"1.15115","life_expect":"0.65088","region":"Central and Eastern Europe"}
+{"country":"Laos","rank":"102","score":"4.876","year":"2016","gdp_per_cap":"0.68042","fertility":"0.5497","life_expect":"0.38291","region":"Southeastern Asia"}
+{"country":"Laos","rank":"99","score":"4.876","year":"2015","gdp_per_cap":"0.59066","fertility":"0.73803","life_expect":"0.54909","region":"Southeastern Asia"}
+{"country":"Latvia","rank":"89","score":"5.098","year":"2015","gdp_per_cap":"1.11312","fertility":"1.09562","life_expect":"0.72437","region":"Central and Eastern Europe"}
+{"country":"Latvia","rank":"54","score":"5.84999990463257","year":"2017","gdp_per_cap":"1.26074862480164","fertility":"1.40471494197845","life_expect":"0.638566970825195","region":"Central and Eastern Europe"}
+{"country":"Latvia","rank":"68","score":"5.56","year":"2016","gdp_per_cap":"1.21788","fertility":"0.95025","life_expect":"0.63952","region":"Central and Eastern Europe"}
+{"country":"Lebanon","rank":"103","score":"4.839","year":"2015","gdp_per_cap":"1.02564","fertility":"0.80001","life_expect":"0.83947","region":"Middle East and Northern Africa"}
+{"country":"Lebanon","rank":"88","score":"5.22499990463257","year":"2017","gdp_per_cap":"1.07498753070831","fertility":"1.12962424755096","life_expect":"0.735081076622009","region":"Middle East and Northern Africa"}
+{"country":"Lebanon","rank":"93","score":"5.129","year":"2016","gdp_per_cap":"1.12268","fertility":"0.64184","life_expect":"0.76171","region":"Middle East and Northern Africa"}
+{"country":"Lesotho","rank":"97","score":"4.898","year":"2015","gdp_per_cap":"0.37545","fertility":"1.04103","life_expect":"0.07612","region":"Sub-Saharan Africa"}
+{"country":"Liberia","rank":"116","score":"4.571","year":"2015","gdp_per_cap":"0.0712","fertility":"0.78968","life_expect":"0.34201","region":"Sub-Saharan Africa"}
+{"country":"Liberia","rank":"148","score":"3.53299999237061","year":"2017","gdp_per_cap":"0.119041793048382","fertility":"0.872117936611176","life_expect":"0.229918196797371","region":"Sub-Saharan Africa"}
+{"country":"Liberia","rank":"150","score":"3.622","year":"2016","gdp_per_cap":"0.10706","fertility":"0.50353","life_expect":"0.23165","region":"Sub-Saharan Africa"}
+{"country":"Libya","rank":"68","score":"5.52500009536743","year":"2017","gdp_per_cap":"1.10180306434631","fertility":"1.35756433010101","life_expect":"0.520169019699097","region":"Middle East and Northern Africa"}
+{"country":"Libya","rank":"67","score":"5.615","year":"2016","gdp_per_cap":"1.06688","fertility":"0.95076","life_expect":"0.52304","region":"Middle East and Northern Africa"}
+{"country":"Libya","rank":"63","score":"5.754","year":"2015","gdp_per_cap":"1.13145","fertility":"1.11862","life_expect":"0.7038","region":"Middle East and Northern Africa"}
+{"country":"Lithuania","rank":"52","score":"5.90199995040894","year":"2017","gdp_per_cap":"1.31458234786987","fertility":"1.47351610660553","life_expect":"0.62894994020462","region":"Central and Eastern Europe"}
+{"country":"Lithuania","rank":"60","score":"5.813","year":"2016","gdp_per_cap":"1.2692","fertility":"1.06411","life_expect":"0.64674","region":"Central and Eastern Europe"}
+{"country":"Lithuania","rank":"56","score":"5.833","year":"2015","gdp_per_cap":"1.14723","fertility":"1.25745","life_expect":"0.73128","region":"Central and Eastern Europe"}
+{"country":"Luxembourg","rank":"17","score":"6.946","year":"2015","gdp_per_cap":"1.56391","fertility":"1.21963","life_expect":"0.91894","region":"Western Europe"}
+{"country":"Luxembourg","rank":"18","score":"6.86299991607666","year":"2017","gdp_per_cap":"1.74194359779358","fertility":"1.45758366584778","life_expect":"0.845089495182037","region":"Western Europe"}
+{"country":"Luxembourg","rank":"20","score":"6.871","year":"2016","gdp_per_cap":"1.69752","fertility":"1.03999","life_expect":"0.84542","region":"Western Europe"}
+{"country":"Macedonia","rank":"92","score":"5.17500019073486","year":"2017","gdp_per_cap":"1.06457793712616","fertility":"1.20789301395416","life_expect":"0.644948184490204","region":"Central and Eastern Europe"}
+{"country":"Macedonia","rank":"95","score":"5.121","year":"2016","gdp_per_cap":"1.0193","fertility":"0.78236","life_expect":"0.64738","region":"Central and Eastern Europe"}
+{"country":"Macedonia","rank":"93","score":"5.007","year":"2015","gdp_per_cap":"0.91851","fertility":"1.00232","life_expect":"0.73545","region":"Central and Eastern Europe"}
+{"country":"Madagascar","rank":"147","score":"3.681","year":"2015","gdp_per_cap":"0.20824","fertility":"0.66801","life_expect":"0.46721","region":"Sub-Saharan Africa"}
+{"country":"Madagascar","rank":"144","score":"3.64400005340576","year":"2017","gdp_per_cap":"0.305808693170547","fertility":"0.913020372390747","life_expect":"0.375223308801651","region":"Sub-Saharan Africa"}
+{"country":"Madagascar","rank":"148","score":"3.695","year":"2016","gdp_per_cap":"0.27954","fertility":"0.46115","life_expect":"0.37109","region":"Sub-Saharan Africa"}
+{"country":"Malawi","rank":"136","score":"3.97000002861023","year":"2017","gdp_per_cap":"0.233442038297653","fertility":"0.512568831443787","life_expect":"0.315089583396912","region":"Sub-Saharan Africa"}
+{"country":"Malawi","rank":"132","score":"4.156","year":"2016","gdp_per_cap":"0.08709","fertility":"0.147","life_expect":"0.29364","region":"Sub-Saharan Africa"}
+{"country":"Malawi","rank":"131","score":"4.292","year":"2015","gdp_per_cap":"0.01604","fertility":"0.41134","life_expect":"0.22562","region":"Sub-Saharan Africa"}
+{"country":"Malaysia","rank":"61","score":"5.77","year":"2015","gdp_per_cap":"1.12486","fertility":"1.07023","life_expect":"0.72394","region":"Southeastern Asia"}
+{"country":"Malaysia","rank":"42","score":"6.08400011062622","year":"2017","gdp_per_cap":"1.29121541976929","fertility":"1.28464603424072","life_expect":"0.618784427642822","region":"Southeastern Asia"}
+{"country":"Malaysia","rank":"47","score":"6.005","year":"2016","gdp_per_cap":"1.25142","fertility":"0.88025","life_expect":"0.62366","region":"Southeastern Asia"}
+{"country":"Mali","rank":"127","score":"4.19000005722046","year":"2017","gdp_per_cap":"0.476180493831635","fertility":"1.28147339820862","life_expect":"0.169365674257278","region":"Sub-Saharan Africa"}
+{"country":"Mali","rank":"135","score":"4.073","year":"2016","gdp_per_cap":"0.31292","fertility":"0.86333","life_expect":"0.16347","region":"Sub-Saharan Africa"}
+{"country":"Mali","rank":"138","score":"3.995","year":"2015","gdp_per_cap":"0.26074","fertility":"1.03526","life_expect":"0.20583","region":"Sub-Saharan Africa"}
+{"country":"Malta","rank":"37","score":"6.302","year":"2015","gdp_per_cap":"1.2074","fertility":"1.30203","life_expect":"0.88721","region":"Western Europe"}
+{"country":"Malta","rank":"27","score":"6.52699995040894","year":"2017","gdp_per_cap":"1.34327983856201","fertility":"1.48841166496277","life_expect":"0.821944236755371","region":"Western Europe"}
+{"country":"Malta","rank":"30","score":"6.488","year":"2016","gdp_per_cap":"1.30782","fertility":"1.09879","life_expect":"0.80315","region":"Western Europe"}
+{"country":"Mauritania","rank":"124","score":"4.436","year":"2015","gdp_per_cap":"0.45407","fertility":"0.86908","life_expect":"0.35874","region":"Sub-Saharan Africa"}
+{"country":"Mauritania","rank":"123","score":"4.29199981689453","year":"2017","gdp_per_cap":"0.648457288742065","fertility":"1.2720308303833","life_expect":"0.285349279642105","region":"Sub-Saharan Africa"}
+{"country":"Mauritania","rank":"130","score":"4.201","year":"2016","gdp_per_cap":"0.61391","fertility":"0.84142","life_expect":"0.28639","region":"Sub-Saharan Africa"}
+{"country":"Mauritius","rank":"64","score":"5.62900018692017","year":"2017","gdp_per_cap":"1.18939554691315","fertility":"1.20956099033356","life_expect":"0.638007462024689","region":"Sub-Saharan Africa"}
+{"country":"Mauritius","rank":"66","score":"5.648","year":"2016","gdp_per_cap":"1.14372","fertility":"0.75695","life_expect":"0.66189","region":"Sub-Saharan Africa"}
+{"country":"Mauritius","rank":"71","score":"5.477","year":"2015","gdp_per_cap":"1.00761","fertility":"0.98521","life_expect":"0.7095","region":"Sub-Saharan Africa"}
+{"country":"Mexico","rank":"25","score":"6.57800006866455","year":"2017","gdp_per_cap":"1.15318381786346","fertility":"1.210862159729","life_expect":"0.709978997707367","region":"Latin America and Caribbean"}
+{"country":"Mexico","rank":"21","score":"6.778","year":"2016","gdp_per_cap":"1.11508","fertility":"0.7146","life_expect":"0.71143","region":"Latin America and Caribbean"}
+{"country":"Mexico","rank":"14","score":"7.187","year":"2015","gdp_per_cap":"1.02054","fertility":"0.91451","life_expect":"0.81444","region":"Latin America and Caribbean"}
+{"country":"Moldova","rank":"52","score":"5.889","year":"2015","gdp_per_cap":"0.59448","fertility":"1.01528","life_expect":"0.61826","region":"Central and Eastern Europe"}
+{"country":"Moldova","rank":"56","score":"5.83799982070923","year":"2017","gdp_per_cap":"0.728870630264282","fertility":"1.25182557106018","life_expect":"0.589465200901031","region":"Central and Eastern Europe"}
+{"country":"Moldova","rank":"55","score":"5.897","year":"2016","gdp_per_cap":"0.69177","fertility":"0.83132","life_expect":"0.52309","region":"Central and Eastern Europe"}
+{"country":"Mongolia","rank":"100","score":"4.874","year":"2015","gdp_per_cap":"0.82819","fertility":"1.3006","life_expect":"0.60268","region":"Eastern Asia"}
+{"country":"Mongolia","rank":"100","score":"4.95499992370605","year":"2017","gdp_per_cap":"1.02723586559296","fertility":"1.4930112361908","life_expect":"0.557783484458923","region":"Eastern Asia"}
+{"country":"Mongolia","rank":"101","score":"4.907","year":"2016","gdp_per_cap":"0.98853","fertility":"1.08983","life_expect":"0.55469","region":"Eastern Asia"}
+{"country":"Montenegro","rank":"83","score":"5.23699998855591","year":"2017","gdp_per_cap":"1.12112903594971","fertility":"1.23837649822235","life_expect":"0.667464673519135","region":"Central and Eastern Europe"}
+{"country":"Montenegro","rank":"88","score":"5.161","year":"2016","gdp_per_cap":"1.07838","fertility":"0.74173","life_expect":"0.63533","region":"Central and Eastern Europe"}
+{"country":"Montenegro","rank":"82","score":"5.192","year":"2015","gdp_per_cap":"0.97438","fertility":"0.90557","life_expect":"0.72521","region":"Central and Eastern Europe"}
+{"country":"Morocco","rank":"84","score":"5.2350001335144","year":"2017","gdp_per_cap":"0.878114581108093","fertility":"0.774864435195923","life_expect":"0.59771066904068","region":"Middle East and Northern Africa"}
+{"country":"Morocco","rank":"90","score":"5.151","year":"2016","gdp_per_cap":"0.84058","fertility":"0.38595","life_expect":"0.59471","region":"Middle East and Northern Africa"}
+{"country":"Morocco","rank":"92","score":"5.013","year":"2015","gdp_per_cap":"0.73479","fertility":"0.64095","life_expect":"0.60954","region":"Middle East and Northern Africa"}
+{"country":"Mozambique","rank":"94","score":"4.971","year":"2015","gdp_per_cap":"0.08308","fertility":"1.02626","life_expect":"0.09131","region":"Sub-Saharan Africa"}
+{"country":"Myanmar","rank":"114","score":"4.54500007629395","year":"2017","gdp_per_cap":"0.367110550403595","fertility":"1.12323594093323","life_expect":"0.397522568702698","region":"Southeastern Asia"}
+{"country":"Myanmar","rank":"119","score":"4.395","year":"2016","gdp_per_cap":"0.34112","fertility":"0.69981","life_expect":"0.3988","region":"Southeastern Asia"}
+{"country":"Myanmar","rank":"129","score":"4.307","year":"2015","gdp_per_cap":"0.27108","fertility":"0.70905","life_expect":"0.48246","region":"Southeastern Asia"}
+{"country":"Namibia","rank":"111","score":"4.57399988174438","year":"2017","gdp_per_cap":"0.964434325695038","fertility":"1.0984708070755","life_expect":"0.33861181139946","region":"Sub-Saharan Africa"}
+{"country":"Namibia","rank":"113","score":"4.574","year":"2016","gdp_per_cap":"0.93287","fertility":"0.70362","life_expect":"0.34745","region":"Sub-Saharan Africa"}
+{"country":"Nepal","rank":"121","score":"4.514","year":"2015","gdp_per_cap":"0.35997","fertility":"0.86449","life_expect":"0.56874","region":"Southern Asia"}
+{"country":"Nepal","rank":"99","score":"4.96199989318848","year":"2017","gdp_per_cap":"0.479820191860199","fertility":"1.17928326129913","life_expect":"0.504130780696869","region":"Southern Asia"}
+{"country":"Nepal","rank":"107","score":"4.793","year":"2016","gdp_per_cap":"0.44626","fertility":"0.69699","life_expect":"0.50073","region":"Southern Asia"}
+{"country":"Netherlands","rank":"6","score":"7.3769998550415","year":"2017","gdp_per_cap":"1.50394463539124","fertility":"1.42893922328949","life_expect":"0.810696125030518","region":"Western Europe"}
+{"country":"Netherlands","rank":"7","score":"7.339","year":"2016","gdp_per_cap":"1.46468","fertility":"1.02912","life_expect":"0.81231","region":"Western Europe"}
+{"country":"Netherlands","rank":"7","score":"7.378","year":"2015","gdp_per_cap":"1.32944","fertility":"1.28017","life_expect":"0.89284","region":"Western Europe"}
+{"country":"New Zealand","rank":"8","score":"7.31400012969971","year":"2017","gdp_per_cap":"1.40570604801178","fertility":"1.54819512367249","life_expect":"0.816759705543518","region":"Australia and New Zealand"}
+{"country":"New Zealand","rank":"8","score":"7.334","year":"2016","gdp_per_cap":"1.36066","fertility":"1.17278","life_expect":"0.83096","region":"Australia and New Zealand"}
+{"country":"New Zealand","rank":"9","score":"7.286","year":"2015","gdp_per_cap":"1.25018","fertility":"1.31967","life_expect":"0.90837","region":"Australia and New Zealand"}
+{"country":"Nicaragua","rank":"57","score":"5.828","year":"2015","gdp_per_cap":"0.59325","fertility":"1.14184","life_expect":"0.74314","region":"Latin America and Caribbean"}
+{"country":"Nicaragua","rank":"43","score":"6.07100009918213","year":"2017","gdp_per_cap":"0.737299203872681","fertility":"1.28721570968628","life_expect":"0.653095960617065","region":"Latin America and Caribbean"}
+{"country":"Nicaragua","rank":"48","score":"5.992","year":"2016","gdp_per_cap":"0.69384","fertility":"0.89521","life_expect":"0.65213","region":"Latin America and Caribbean"}
+{"country":"Niger","rank":"144","score":"3.845","year":"2015","gdp_per_cap":"0.0694","fertility":"0.77265","life_expect":"0.29707","region":"Sub-Saharan Africa"}
+{"country":"Niger","rank":"135","score":"4.02799987792969","year":"2017","gdp_per_cap":"0.161925330758095","fertility":"0.993025004863739","life_expect":"0.26850500702858","region":"Sub-Saharan Africa"}
+{"country":"Niger","rank":"142","score":"3.856","year":"2016","gdp_per_cap":"0.1327","fertility":"0.6053","life_expect":"0.26162","region":"Sub-Saharan Africa"}
+{"country":"Nigeria","rank":"95","score":"5.07399988174438","year":"2017","gdp_per_cap":"0.783756256103516","fertility":"1.21577048301697","life_expect":"0.0569157302379608","region":"Sub-Saharan Africa"}
+{"country":"Nigeria","rank":"103","score":"4.875","year":"2016","gdp_per_cap":"0.75216","fertility":"0.64498","life_expect":"0.05108","region":"Sub-Saharan Africa"}
+{"country":"Nigeria","rank":"78","score":"5.268","year":"2015","gdp_per_cap":"0.65435","fertility":"0.90432","life_expect":"0.16007","region":"Sub-Saharan Africa"}
+{"country":"North Cyprus","rank":"66","score":"5.695","year":"2015","gdp_per_cap":"1.20806","fertility":"1.07008","life_expect":"0.92356","region":"Western Europe"}
+{"country":"North Cyprus","rank":"61","score":"5.80999994277954","year":"2017","gdp_per_cap":"1.3469113111496","fertility":"1.18630337715149","life_expect":"0.834647238254547","region":"Western Europe"}
+{"country":"North Cyprus","rank":"62","score":"5.771","year":"2016","gdp_per_cap":"1.31141","fertility":"0.81826","life_expect":"0.84142","region":"Western Europe"}
+{"country":"Norway","rank":"1","score":"7.53700017929077","year":"2017","gdp_per_cap":"1.61646318435669","fertility":"1.53352355957031","life_expect":"0.796666502952576","region":"Western Europe"}
+{"country":"Norway","rank":"4","score":"7.498","year":"2016","gdp_per_cap":"1.57744","fertility":"1.1269","life_expect":"0.79579","region":"Western Europe"}
+{"country":"Norway","rank":"4","score":"7.522","year":"2015","gdp_per_cap":"1.459","fertility":"1.33095","life_expect":"0.88521","region":"Western Europe"}
+{"country":"Oman","rank":"22","score":"6.853","year":"2015","gdp_per_cap":"1.36011","fertility":"1.08182","life_expect":"0.76276","region":"Middle East and Northern Africa"}
+{"country":"Pakistan","rank":"81","score":"5.194","year":"2015","gdp_per_cap":"0.59543","fertility":"0.41411","life_expect":"0.51466","region":"Southern Asia"}
+{"country":"Pakistan","rank":"80","score":"5.26900005340576","year":"2017","gdp_per_cap":"0.72688353061676","fertility":"0.672690689563751","life_expect":"0.402047783136368","region":"Southern Asia"}
+{"country":"Pakistan","rank":"92","score":"5.132","year":"2016","gdp_per_cap":"0.68816","fertility":"0.26135","life_expect":"0.40306","region":"Southern Asia"}
+{"country":"Palestinian Territories","rank":"103","score":"4.77500009536743","year":"2017","gdp_per_cap":"0.716249227523804","fertility":"1.15564715862274","life_expect":"0.565666973590851","region":"Middle East and Northern Africa"}
+{"country":"Palestinian Territories","rank":"108","score":"4.754","year":"2016","gdp_per_cap":"0.67024","fertility":"0.71629","life_expect":"0.56844","region":"Middle East and Northern Africa"}
+{"country":"Palestinian Territories","rank":"108","score":"4.715","year":"2015","gdp_per_cap":"0.59867","fertility":"0.92558","life_expect":"0.66015","region":"Middle East and Northern Africa"}
+{"country":"Panama","rank":"30","score":"6.4520001411438","year":"2017","gdp_per_cap":"1.23374843597412","fertility":"1.37319254875183","life_expect":"0.706156134605408","region":"Latin America and Caribbean"}
+{"country":"Panama","rank":"25","score":"6.701","year":"2016","gdp_per_cap":"1.18306","fertility":"0.98912","life_expect":"0.70835","region":"Latin America and Caribbean"}
+{"country":"Panama","rank":"25","score":"6.786","year":"2015","gdp_per_cap":"1.06353","fertility":"1.1985","life_expect":"0.79661","region":"Latin America and Caribbean"}
+{"country":"Paraguay","rank":"70","score":"5.538","year":"2016","gdp_per_cap":"0.89373","fertility":"1.11111","life_expect":"0.58295","region":"Latin America and Caribbean"}
+{"country":"Paraguay","rank":"70","score":"5.49300003051758","year":"2017","gdp_per_cap":"0.932537317276001","fertility":"1.50728487968445","life_expect":"0.579250693321228","region":"Latin America and Caribbean"}
+{"country":"Paraguay","rank":"53","score":"5.878","year":"2015","gdp_per_cap":"0.75985","fertility":"1.30477","life_expect":"0.66098","region":"Latin America and Caribbean"}
+{"country":"Peru","rank":"58","score":"5.824","year":"2015","gdp_per_cap":"0.90019","fertility":"0.97459","life_expect":"0.73017","region":"Latin America and Caribbean"}
+{"country":"Peru","rank":"63","score":"5.71500015258789","year":"2017","gdp_per_cap":"1.03522527217865","fertility":"1.21877038478851","life_expect":"0.630166113376617","region":"Latin America and Caribbean"}
+{"country":"Peru","rank":"64","score":"5.743","year":"2016","gdp_per_cap":"0.99602","fertility":"0.81255","life_expect":"0.62994","region":"Latin America and Caribbean"}
+{"country":"Philippines","rank":"72","score":"5.42999982833862","year":"2017","gdp_per_cap":"0.85769921541214","fertility":"1.25391757488251","life_expect":"0.468009054660797","region":"Southeastern Asia"}
+{"country":"Philippines","rank":"82","score":"5.279","year":"2016","gdp_per_cap":"0.81217","fertility":"0.87877","life_expect":"0.47036","region":"Southeastern Asia"}
+{"country":"Philippines","rank":"90","score":"5.073","year":"2015","gdp_per_cap":"0.70532","fertility":"1.03516","life_expect":"0.58114","region":"Southeastern Asia"}
+{"country":"Poland","rank":"46","score":"5.97300004959106","year":"2017","gdp_per_cap":"1.29178786277771","fertility":"1.44571197032928","life_expect":"0.699475347995758","region":"Central and Eastern Europe"}
+{"country":"Poland","rank":"57","score":"5.835","year":"2016","gdp_per_cap":"1.24585","fertility":"1.04685","life_expect":"0.69058","region":"Central and Eastern Europe"}
+{"country":"Poland","rank":"60","score":"5.791","year":"2015","gdp_per_cap":"1.12555","fertility":"1.27948","life_expect":"0.77903","region":"Central and Eastern Europe"}
+{"country":"Portugal","rank":"88","score":"5.102","year":"2015","gdp_per_cap":"1.15991","fertility":"1.13935","life_expect":"0.87519","region":"Western Europe"}
+{"country":"Portugal","rank":"89","score":"5.19500017166138","year":"2017","gdp_per_cap":"1.3151752948761","fertility":"1.36704301834106","life_expect":"0.795843541622162","region":"Western Europe"}
+{"country":"Portugal","rank":"94","score":"5.123","year":"2016","gdp_per_cap":"1.27607","fertility":"0.94367","life_expect":"0.79363","region":"Western Europe"}
+{"country":"Puerto Rico","rank":"15","score":"7.039","year":"2016","gdp_per_cap":"1.35943","fertility":"1.08113","life_expect":"0.77758","region":"Latin America and Caribbean"}
+{"country":"Qatar","rank":"28","score":"6.611","year":"2015","gdp_per_cap":"1.69042","fertility":"1.0786","life_expect":"0.79733","region":"Middle East and Northern Africa"}
+{"country":"Qatar","rank":"35","score":"6.375","year":"2017","gdp_per_cap":"1.87076568603516","fertility":"1.27429687976837","life_expect":"0.710098087787628","region":"Middle East and Northern Africa"}
+{"country":"Qatar","rank":"36","score":"6.375","year":"2016","gdp_per_cap":"1.82427","fertility":"0.87964","life_expect":"0.71723","region":"Middle East and Northern Africa"}
+{"country":"Romania","rank":"57","score":"5.82499980926514","year":"2017","gdp_per_cap":"1.21768391132355","fertility":"1.15009129047394","life_expect":"0.685158312320709","region":"Central and Eastern Europe"}
+{"country":"Romania","rank":"71","score":"5.528","year":"2016","gdp_per_cap":"1.1697","fertility":"0.72803","life_expect":"0.67602","region":"Central and Eastern Europe"}
+{"country":"Romania","rank":"86","score":"5.124","year":"2015","gdp_per_cap":"1.04345","fertility":"0.88588","life_expect":"0.7689","region":"Central and Eastern Europe"}
+{"country":"Russia","rank":"56","score":"5.856","year":"2016","gdp_per_cap":"1.23228","fertility":"1.05261","life_expect":"0.58991","region":"Central and Eastern Europe"}
+{"country":"Russia","rank":"49","score":"5.96299982070923","year":"2017","gdp_per_cap":"1.28177809715271","fertility":"1.46928238868713","life_expect":"0.547349333763123","region":"Central and Eastern Europe"}
+{"country":"Russia","rank":"64","score":"5.716","year":"2015","gdp_per_cap":"1.13764","fertility":"1.23617","life_expect":"0.66926","region":"Central and Eastern Europe"}
+{"country":"Rwanda","rank":"151","score":"3.47099995613098","year":"2017","gdp_per_cap":"0.368745893239975","fertility":"0.945707023143768","life_expect":"0.326424807310104","region":"Sub-Saharan Africa"}
+{"country":"Rwanda","rank":"152","score":"3.515","year":"2016","gdp_per_cap":"0.32846","fertility":"0.61586","life_expect":"0.31865","region":"Sub-Saharan Africa"}
+{"country":"Rwanda","rank":"154","score":"3.465","year":"2015","gdp_per_cap":"0.22208","fertility":"0.7737","life_expect":"0.42864","region":"Sub-Saharan Africa"}
+{"country":"Saudi Arabia","rank":"35","score":"6.411","year":"2015","gdp_per_cap":"1.39541","fertility":"1.08393","life_expect":"0.72025","region":"Middle East and Northern Africa"}
+{"country":"Saudi Arabia","rank":"37","score":"6.3439998626709","year":"2017","gdp_per_cap":"1.53062355518341","fertility":"1.28667759895325","life_expect":"0.590148329734802","region":"Middle East and Northern Africa"}
+{"country":"Saudi Arabia","rank":"34","score":"6.379","year":"2016","gdp_per_cap":"1.48953","fertility":"0.84829","life_expect":"0.59267","region":"Middle East and Northern Africa"}
+{"country":"Senegal","rank":"115","score":"4.53499984741211","year":"2017","gdp_per_cap":"0.479309022426605","fertility":"1.17969191074371","life_expect":"0.409362852573395","region":"Sub-Saharan Africa"}
+{"country":"Senegal","rank":"142","score":"3.904","year":"2015","gdp_per_cap":"0.36498","fertility":"0.97619","life_expect":"0.4354","region":"Sub-Saharan Africa"}
+{"country":"Senegal","rank":"128","score":"4.219","year":"2016","gdp_per_cap":"0.44314","fertility":"0.77416","life_expect":"0.40457","region":"Sub-Saharan Africa"}
+{"country":"Serbia","rank":"87","score":"5.123","year":"2015","gdp_per_cap":"0.92053","fertility":"1.00964","life_expect":"0.74836","region":"Central and Eastern Europe"}
+{"country":"Serbia","rank":"73","score":"5.39499998092651","year":"2017","gdp_per_cap":"1.06931757926941","fertility":"1.25818979740143","life_expect":"0.65078467130661","region":"Central and Eastern Europe"}
+{"country":"Serbia","rank":"86","score":"5.177","year":"2016","gdp_per_cap":"1.03437","fertility":"0.81329","life_expect":"0.6458","region":"Central and Eastern Europe"}
+{"country":"Sierra Leone","rank":"123","score":"4.507","year":"2015","gdp_per_cap":"0.33024","fertility":"0.95571","life_expect":"0","region":"Sub-Saharan Africa"}
+{"country":"Sierra Leone","rank":"106","score":"4.70900011062622","year":"2017","gdp_per_cap":"0.36842092871666","fertility":"0.984136044979095","life_expect":"0.00556475389748812","region":"Sub-Saharan Africa"}
+{"country":"Sierra Leone","rank":"111","score":"4.635","year":"2016","gdp_per_cap":"0.36485","fertility":"0.628","life_expect":"0","region":"Sub-Saharan Africa"}
+{"country":"Singapore","rank":"26","score":"6.57200002670288","year":"2017","gdp_per_cap":"1.69227766990662","fertility":"1.35381436347961","life_expect":"0.949492394924164","region":"Southeastern Asia"}
+{"country":"Singapore","rank":"22","score":"6.739","year":"2016","gdp_per_cap":"1.64555","fertility":"0.86758","life_expect":"0.94719","region":"Southeastern Asia"}
+{"country":"Singapore","rank":"24","score":"6.798","year":"2015","gdp_per_cap":"1.52186","fertility":"1.02","life_expect":"1.02525","region":"Southeastern Asia"}
+{"country":"Slovakia","rank":"40","score":"6.09800004959106","year":"2017","gdp_per_cap":"1.32539355754852","fertility":"1.50505924224854","life_expect":"0.712732911109924","region":"Central and Eastern Europe"}
+{"country":"Slovakia","rank":"45","score":"6.078","year":"2016","gdp_per_cap":"1.27973","fertility":"1.08268","life_expect":"0.70367","region":"Central and Eastern Europe"}
+{"country":"Slovakia","rank":"45","score":"5.995","year":"2015","gdp_per_cap":"1.16891","fertility":"1.26999","life_expect":"0.78902","region":"Central and Eastern Europe"}
+{"country":"Slovenia","rank":"62","score":"5.75799989700317","year":"2017","gdp_per_cap":"1.3412059545517","fertility":"1.45251882076263","life_expect":"0.790828227996826","region":"Central and Eastern Europe"}
+{"country":"Slovenia","rank":"63","score":"5.768","year":"2016","gdp_per_cap":"1.29947","fertility":"1.05613","life_expect":"0.79151","region":"Central and Eastern Europe"}
+{"country":"Slovenia","rank":"55","score":"5.848","year":"2015","gdp_per_cap":"1.18498","fertility":"1.27385","life_expect":"0.87337","region":"Central and Eastern Europe"}
+{"country":"Somalia","rank":"93","score":"5.15100002288818","year":"2017","gdp_per_cap":"0.0226431842893362","fertility":"0.721151351928711","life_expect":"0.113989137113094","region":"Sub-Saharan Africa"}
+{"country":"Somalia","rank":"76","score":"5.44","year":"2016","gdp_per_cap":"0","fertility":"0.33613","life_expect":"0.11466","region":"Sub-Saharan Africa"}
+{"country":"Somaliland region","rank":"91","score":"5.057","year":"2015","gdp_per_cap":"0.18847","fertility":"0.95152","life_expect":"0.43873","region":"Sub-Saharan Africa"}
+{"country":"Somaliland Region","rank":"97","score":"5.057","year":"2016","gdp_per_cap":"0.25558","fertility":"0.75862","life_expect":"0.33108","region":"Sub-Saharan Africa"}
+{"country":"South Africa","rank":"101","score":"4.8289999961853","year":"2017","gdp_per_cap":"1.05469870567322","fertility":"1.38478863239288","life_expect":"0.187080070376396","region":"Sub-Saharan Africa"}
+{"country":"South Africa","rank":"116","score":"4.459","year":"2016","gdp_per_cap":"1.02416","fertility":"0.96053","life_expect":"0.18611","region":"Sub-Saharan Africa"}
+{"country":"South Africa","rank":"113","score":"4.642","year":"2015","gdp_per_cap":"0.92049","fertility":"1.18468","life_expect":"0.27688","region":"Sub-Saharan Africa"}
+{"country":"South Korea","rank":"47","score":"5.984","year":"2015","gdp_per_cap":"1.24461","fertility":"0.95774","life_expect":"0.96538","region":"Eastern Asia"}
+{"country":"South Korea","rank":"55","score":"5.83799982070923","year":"2017","gdp_per_cap":"1.40167844295502","fertility":"1.12827444076538","life_expect":"0.900214076042175","region":"Eastern Asia"}
+{"country":"South Korea","rank":"57","score":"5.835","year":"2016","gdp_per_cap":"1.35948","fertility":"0.72194","life_expect":"0.88645","region":"Eastern Asia"}
+{"country":"South Sudan","rank":"147","score":"3.59100008010864","year":"2017","gdp_per_cap":"0.39724862575531","fertility":"0.601323127746582","life_expect":"0.163486003875732","region":"Sub-Saharan Africa"}
+{"country":"South Sudan","rank":"143","score":"3.832","year":"2016","gdp_per_cap":"0.39394","fertility":"0.18519","life_expect":"0.15781","region":"Sub-Saharan Africa"}
+{"country":"Spain","rank":"36","score":"6.329","year":"2015","gdp_per_cap":"1.23011","fertility":"1.31379","life_expect":"0.95562","region":"Western Europe"}
+{"country":"Spain","rank":"34","score":"6.40299987792969","year":"2017","gdp_per_cap":"1.38439786434174","fertility":"1.53209090232849","life_expect":"0.888960599899292","region":"Western Europe"}
+{"country":"Spain","rank":"37","score":"6.361","year":"2016","gdp_per_cap":"1.34253","fertility":"1.12945","life_expect":"0.87896","region":"Western Europe"}
+{"country":"Sri Lanka","rank":"132","score":"4.271","year":"2015","gdp_per_cap":"0.83524","fertility":"1.01905","life_expect":"0.70806","region":"Southern Asia"}
+{"country":"Sri Lanka","rank":"120","score":"4.44000005722046","year":"2017","gdp_per_cap":"1.00985014438629","fertility":"1.25997638702393","life_expect":"0.625130832195282","region":"Southern Asia"}
+{"country":"Sri Lanka","rank":"117","score":"4.415","year":"2016","gdp_per_cap":"0.97318","fertility":"0.84783","life_expect":"0.62007","region":"Southern Asia"}
+{"country":"Sudan","rank":"130","score":"4.13899993896484","year":"2017","gdp_per_cap":"0.65951669216156","fertility":"1.21400856971741","life_expect":"0.290920823812485","region":"Sub-Saharan Africa"}
+{"country":"Sudan","rank":"133","score":"4.139","year":"2016","gdp_per_cap":"0.63069","fertility":"0.81928","life_expect":"0.29759","region":"Sub-Saharan Africa"}
+{"country":"Sudan","rank":"118","score":"4.55","year":"2015","gdp_per_cap":"0.52107","fertility":"1.01404","life_expect":"0.36878","region":"Sub-Saharan Africa"}
+{"country":"Suriname","rank":"40","score":"6.269","year":"2016","gdp_per_cap":"1.09686","fertility":"0.77866","life_expect":"0.50933","region":"Latin America and Caribbean"}
+{"country":"Suriname","rank":"40","score":"6.269","year":"2015","gdp_per_cap":"0.99534","fertility":"0.972","life_expect":"0.6082","region":"Latin America and Caribbean"}
+{"country":"Swaziland","rank":"101","score":"4.867","year":"2015","gdp_per_cap":"0.71206","fertility":"1.07284","life_expect":"0.07566","region":"Sub-Saharan Africa"}
+{"country":"Sweden","rank":"9","score":"7.28399991989136","year":"2017","gdp_per_cap":"1.49438726902008","fertility":"1.47816216945648","life_expect":"0.830875158309937","region":"Western Europe"}
+{"country":"Sweden","rank":"8","score":"7.364","year":"2015","gdp_per_cap":"1.33171","fertility":"1.28907","life_expect":"0.91087","region":"Western Europe"}
+{"country":"Sweden","rank":"10","score":"7.291","year":"2016","gdp_per_cap":"1.45181","fertility":"1.08764","life_expect":"0.83121","region":"Western Europe"}
+{"country":"Switzerland","rank":"1","score":"7.587","year":"2015","gdp_per_cap":"1.39651","fertility":"1.34951","life_expect":"0.94143","region":"Western Europe"}
+{"country":"Switzerland","rank":"4","score":"7.49399995803833","year":"2017","gdp_per_cap":"1.56497955322266","fertility":"1.51691174507141","life_expect":"0.858131289482117","region":"Western Europe"}
+{"country":"Switzerland","rank":"2","score":"7.509","year":"2016","gdp_per_cap":"1.52733","fertility":"1.14524","life_expect":"0.86303","region":"Western Europe"}
+{"country":"Syria","rank":"156","score":"3.006","year":"2015","gdp_per_cap":"0.6632","fertility":"0.47489","life_expect":"0.72193","region":"Middle East and Northern Africa"}
+{"country":"Syria","rank":"152","score":"3.46199989318848","year":"2017","gdp_per_cap":"0.777153134346008","fertility":"0.396102607250214","life_expect":"0.50053334236145","region":"Middle East and Northern Africa"}
+{"country":"Syria","rank":"156","score":"3.069","year":"2016","gdp_per_cap":"0.74719","fertility":"0.14866","life_expect":"0.62994","region":"Middle East and Northern Africa"}
+{"country":"Taiwan","rank":"34","score":"6.379","year":"2016","gdp_per_cap":"1.39729","fertility":"0.92624","life_expect":"0.79565","region":"Eastern Asia"}
+{"country":"Taiwan","rank":"38","score":"6.298","year":"2015","gdp_per_cap":"1.29098","fertility":"1.07617","life_expect":"0.8753","region":"Eastern Asia"}
+{"country":"Tajikistan","rank":"106","score":"4.786","year":"2015","gdp_per_cap":"0.39047","fertility":"0.85563","life_expect":"0.57379","region":"Central and Eastern Europe"}
+{"country":"Tajikistan","rank":"96","score":"5.04099988937378","year":"2017","gdp_per_cap":"0.524713635444641","fertility":"1.27146327495575","life_expect":"0.529235124588013","region":"Central and Eastern Europe"}
+{"country":"Tajikistan","rank":"100","score":"4.996","year":"2016","gdp_per_cap":"0.48835","fertility":"0.75602","life_expect":"0.53119","region":"Central and Eastern Europe"}
+{"country":"Tanzania","rank":"153","score":"3.34899997711182","year":"2017","gdp_per_cap":"0.511135876178741","fertility":"1.04198980331421","life_expect":"0.364509284496307","region":"Sub-Saharan Africa"}
+{"country":"Tanzania","rank":"149","score":"3.666","year":"2016","gdp_per_cap":"0.47155","fertility":"0.77623","life_expect":"0.357","region":"Sub-Saharan Africa"}
+{"country":"Tanzania","rank":"146","score":"3.781","year":"2015","gdp_per_cap":"0.2852","fertility":"1.00268","life_expect":"0.38215","region":"Sub-Saharan Africa"}
+{"country":"Thailand","rank":"34","score":"6.455","year":"2015","gdp_per_cap":"0.9669","fertility":"1.26504","life_expect":"0.7385","region":"Southeastern Asia"}
+{"country":"Thailand","rank":"32","score":"6.42399978637695","year":"2017","gdp_per_cap":"1.12786877155304","fertility":"1.42579245567322","life_expect":"0.647239029407501","region":"Southeastern Asia"}
+{"country":"Thailand","rank":"33","score":"6.474","year":"2016","gdp_per_cap":"1.0893","fertility":"1.04477","life_expect":"0.64915","region":"Southeastern Asia"}
+{"country":"Togo","rank":"158","score":"2.839","year":"2015","gdp_per_cap":"0.20868","fertility":"0.13995","life_expect":"0.28443","region":"Sub-Saharan Africa"}
+{"country":"Togo","rank":"150","score":"3.49499988555908","year":"2017","gdp_per_cap":"0.305444717407227","fertility":"0.431882530450821","life_expect":"0.247105568647385","region":"Sub-Saharan Africa"}
+{"country":"Togo","rank":"155","score":"3.303","year":"2016","gdp_per_cap":"0.28123","fertility":"0","life_expect":"0.24811","region":"Sub-Saharan Africa"}
+{"country":"Trinidad and Tobago","rank":"38","score":"6.16800022125244","year":"2017","gdp_per_cap":"1.36135590076447","fertility":"1.3802285194397","life_expect":"0.519983291625977","region":"Latin America and Caribbean"}
+{"country":"Trinidad and Tobago","rank":"43","score":"6.168","year":"2016","gdp_per_cap":"1.32572","fertility":"0.98569","life_expect":"0.52608","region":"Latin America and Caribbean"}
+{"country":"Trinidad and Tobago","rank":"41","score":"6.168","year":"2015","gdp_per_cap":"1.21183","fertility":"1.18354","life_expect":"0.61483","region":"Latin America and Caribbean"}
+{"country":"Tunisia","rank":"107","score":"4.739","year":"2015","gdp_per_cap":"0.88113","fertility":"0.60429","life_expect":"0.73793","region":"Middle East and Northern Africa"}
+{"country":"Tunisia","rank":"102","score":"4.80499982833862","year":"2017","gdp_per_cap":"1.00726580619812","fertility":"0.868351459503174","life_expect":"0.613212049007416","region":"Middle East and Northern Africa"}
+{"country":"Tunisia","rank":"98","score":"5.045","year":"2016","gdp_per_cap":"0.97724","fertility":"0.43165","life_expect":"0.59577","region":"Middle East and Northern Africa"}
+{"country":"Turkey","rank":"76","score":"5.332","year":"2015","gdp_per_cap":"1.06098","fertility":"0.94632","life_expect":"0.73172","region":"Middle East and Northern Africa"}
+{"country":"Turkey","rank":"69","score":"5.5","year":"2017","gdp_per_cap":"1.19827437400818","fertility":"1.33775317668915","life_expect":"0.637605607509613","region":"Middle East and Northern Africa"}
+{"country":"Turkey","rank":"78","score":"5.389","year":"2016","gdp_per_cap":"1.16492","fertility":"0.87717","life_expect":"0.64718","region":"Middle East and Northern Africa"}
+{"country":"Turkmenistan","rank":"59","score":"5.82200002670288","year":"2017","gdp_per_cap":"1.13077676296234","fertility":"1.49314916133881","life_expect":"0.437726080417633","region":"Central and Eastern Europe"}
+{"country":"Turkmenistan","rank":"65","score":"5.658","year":"2016","gdp_per_cap":"1.08017","fertility":"1.03817","life_expect":"0.44006","region":"Central and Eastern Europe"}
+{"country":"Turkmenistan","rank":"70","score":"5.548","year":"2015","gdp_per_cap":"0.95847","fertility":"1.22668","life_expect":"0.53886","region":"Central and Eastern Europe"}
+{"country":"Uganda","rank":"141","score":"3.931","year":"2015","gdp_per_cap":"0.21102","fertility":"1.13299","life_expect":"0.33861","region":"Sub-Saharan Africa"}
+{"country":"Uganda","rank":"133","score":"4.08099985122681","year":"2017","gdp_per_cap":"0.381430715322495","fertility":"1.12982773780823","life_expect":"0.217632606625557","region":"Sub-Saharan Africa"}
+{"country":"Uganda","rank":"145","score":"3.739","year":"2016","gdp_per_cap":"0.34719","fertility":"0.90981","life_expect":"0.19625","region":"Sub-Saharan Africa"}
+{"country":"Ukraine","rank":"111","score":"4.681","year":"2015","gdp_per_cap":"0.79907","fertility":"1.20278","life_expect":"0.6739","region":"Central and Eastern Europe"}
+{"country":"Ukraine","rank":"132","score":"4.09600019454956","year":"2017","gdp_per_cap":"0.89465194940567","fertility":"1.39453756809235","life_expect":"0.575903952121735","region":"Central and Eastern Europe"}
+{"country":"Ukraine","rank":"123","score":"4.324","year":"2016","gdp_per_cap":"0.87287","fertility":"1.01413","life_expect":"0.58628","region":"Central and Eastern Europe"}
+{"country":"United Arab Emirates","rank":"20","score":"6.901","year":"2015","gdp_per_cap":"1.42727","fertility":"1.12575","life_expect":"0.80925","region":"Middle East and Northern Africa"}
+{"country":"United Arab Emirates","rank":"21","score":"6.64799976348877","year":"2017","gdp_per_cap":"1.62634336948395","fertility":"1.26641023159027","life_expect":"0.726798236370087","region":"Middle East and Northern Africa"}
+{"country":"United Arab Emirates","rank":"28","score":"6.573","year":"2016","gdp_per_cap":"1.57352","fertility":"0.87114","life_expect":"0.72993","region":"Middle East and Northern Africa"}
+{"country":"United Kingdom","rank":"19","score":"6.71400022506714","year":"2017","gdp_per_cap":"1.44163393974304","fertility":"1.49646008014679","life_expect":"0.805335938930511","region":"Western Europe"}
+{"country":"United Kingdom","rank":"23","score":"6.725","year":"2016","gdp_per_cap":"1.40283","fertility":"1.08672","life_expect":"0.80991","region":"Western Europe"}
+{"country":"United Kingdom","rank":"21","score":"6.867","year":"2015","gdp_per_cap":"1.26637","fertility":"1.28548","life_expect":"0.90943","region":"Western Europe"}
+{"country":"United States","rank":"15","score":"7.119","year":"2015","gdp_per_cap":"1.39451","fertility":"1.24711","life_expect":"0.86179","region":"North America"}
+{"country":"United States","rank":"14","score":"6.99300003051758","year":"2017","gdp_per_cap":"1.54625928401947","fertility":"1.41992056369781","life_expect":"0.77428662776947","region":"North America"}
+{"country":"United States","rank":"13","score":"7.104","year":"2016","gdp_per_cap":"1.50796","fertility":"1.04782","life_expect":"0.779","region":"North America"}
+{"country":"Uruguay","rank":"28","score":"6.4539999961853","year":"2017","gdp_per_cap":"1.21755969524384","fertility":"1.41222786903381","life_expect":"0.719216823577881","region":"Latin America and Caribbean"}
+{"country":"Uruguay","rank":"29","score":"6.545","year":"2016","gdp_per_cap":"1.18157","fertility":"1.03143","life_expect":"0.72183","region":"Latin America and Caribbean"}
+{"country":"Uruguay","rank":"32","score":"6.485","year":"2015","gdp_per_cap":"1.06166","fertility":"1.2089","life_expect":"0.8116","region":"Latin America and Caribbean"}
+{"country":"Uzbekistan","rank":"44","score":"6.003","year":"2015","gdp_per_cap":"0.63244","fertility":"1.34043","life_expect":"0.59772","region":"Central and Eastern Europe"}
+{"country":"Uzbekistan","rank":"47","score":"5.97100019454956","year":"2017","gdp_per_cap":"0.786441087722778","fertility":"1.54896914958954","life_expect":"0.498272627592087","region":"Central and Eastern Europe"}
+{"country":"Uzbekistan","rank":"49","score":"5.987","year":"2016","gdp_per_cap":"0.73591","fertility":"1.1681","life_expect":"0.50163","region":"Central and Eastern Europe"}
+{"country":"Venezuela","rank":"82","score":"5.25","year":"2017","gdp_per_cap":"1.12843120098114","fertility":"1.43133759498596","life_expect":"0.617144227027893","region":"Latin America and Caribbean"}
+{"country":"Venezuela","rank":"44","score":"6.084","year":"2016","gdp_per_cap":"1.13367","fertility":"1.03302","life_expect":"0.61904","region":"Latin America and Caribbean"}
+{"country":"Venezuela","rank":"23","score":"6.81","year":"2015","gdp_per_cap":"1.04424","fertility":"1.25596","life_expect":"0.72052","region":"Latin America and Caribbean"}
+{"country":"Vietnam","rank":"75","score":"5.36","year":"2015","gdp_per_cap":"0.63216","fertility":"0.91226","life_expect":"0.74676","region":"Southeastern Asia"}
+{"country":"Vietnam","rank":"94","score":"5.07399988174438","year":"2017","gdp_per_cap":"0.788547575473785","fertility":"1.27749133110046","life_expect":"0.652168989181519","region":"Southeastern Asia"}
+{"country":"Vietnam","rank":"96","score":"5.061","year":"2016","gdp_per_cap":"0.74037","fertility":"0.79117","life_expect":"0.66157","region":"Southeastern Asia"}
+{"country":"Yemen","rank":"146","score":"3.59299993515015","year":"2017","gdp_per_cap":"0.591683447360992","fertility":"0.93538224697113","life_expect":"0.310080915689468","region":"Middle East and Northern Africa"}
+{"country":"Yemen","rank":"147","score":"3.724","year":"2016","gdp_per_cap":"0.57939","fertility":"0.47493","life_expect":"0.31048","region":"Middle East and Northern Africa"}
+{"country":"Yemen","rank":"136","score":"4.077","year":"2015","gdp_per_cap":"0.54649","fertility":"0.68093","life_expect":"0.40064","region":"Middle East and Northern Africa"}
+{"country":"Zambia","rank":"85","score":"5.129","year":"2015","gdp_per_cap":"0.47038","fertility":"0.91612","life_expect":"0.29924","region":"Sub-Saharan Africa"}
+{"country":"Zambia","rank":"116","score":"4.51399993896484","year":"2017","gdp_per_cap":"0.636406779289246","fertility":"1.00318729877472","life_expect":"0.257835894823074","region":"Sub-Saharan Africa"}
+{"country":"Zambia","rank":"106","score":"4.795","year":"2016","gdp_per_cap":"0.61202","fertility":"0.6376","life_expect":"0.23573","region":"Sub-Saharan Africa"}
+{"country":"Zimbabwe","rank":"138","score":"3.875","year":"2017","gdp_per_cap":"0.375846534967422","fertility":"1.08309590816498","life_expect":"0.196763753890991","region":"Sub-Saharan Africa"}
+{"country":"Zimbabwe","rank":"131","score":"4.193","year":"2016","gdp_per_cap":"0.35041","fertility":"0.71478","life_expect":"0.1595","region":"Sub-Saharan Africa"}
+{"country":"Zimbabwe","rank":"115","score":"4.61","year":"2015","gdp_per_cap":"0.271","fertility":"1.03276","life_expect":"0.33475","region":"Sub-Saharan Africa"}
